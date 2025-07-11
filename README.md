@@ -5,5 +5,9 @@ The purpose of this project is to use the information learned from the foundatio
 
 All images from Pexels.com
 
+
+Credits:
+
 orange-chicken.jpg : Denys Gromov 
 fried-rice.jpg : Nadja M
+raspberry-citrus-mocktail.jpg: Shameel mukkath
